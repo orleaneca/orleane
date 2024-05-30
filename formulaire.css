@@ -1,0 +1,5 @@
+body{background-color: darkred; background-size:100%;}
+h1{color:white;font-family:monospace;font-style:oblique;background-color:black;}
+label{color:white;font-size:20px;}
+footer{font-family:monospace;font-style:oblique;color:white;text-decoration:underline;}
+#Envoie{color:white;background-color:black;font-size:25px;}
